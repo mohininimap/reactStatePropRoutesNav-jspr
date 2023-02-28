@@ -1,0 +1,36 @@
+this=>represent current object
+
+constructor=>using constructor you can create object instance
+
+Object litaral,factory function and using constructor you can make bobejects
+
+find() methods return a one element
+
+// ----------------------
+// Differnce betwen function and expressin function
+The main difference between Function declaration and Function expression is
+ we can invoke the regilar function before its declaration also, 
+but the expression function needs to invoke after it is defined.
+
+------------------
+Arrow function=>
+
+The arrow function — also called the fat arrow function — 
+is a new feature introduced in ES6 that is a more concise syntax for writing function expressions. 
+It allows you to create functions more cleanly compared to regular functions. There is no declaration approach here,
+ we can write by using Function expressions only.
+
+ =>arrow function we cannot used new keyword
+ TypeError: UserDetails is not a constructor
+ ---------------------
+ Unlike regular functions, arrow functions do not allow duplicate parameters, whether in strict or non-strict mode.
+  Duplicate parameters will cause a Syntax Error to be thrown.
+  =============
+  findIndex() =>
+  The findIndex() method returns the index of the first element in an array
+   that satisfies the provided testing function. If no elements satisfy the testing function, -1 is returned.
+
+   ==============================
+   The join() method creates and returns a new string by concatenating all of the elements in an array (or an array-like object), 
+   separated by commas or a specified separator string. 
+   If the array has only one item, then that item will be returned without using the separator.

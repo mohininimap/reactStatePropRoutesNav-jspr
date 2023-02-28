@@ -1,0 +1,21 @@
+.navbar{
+    height: 100px;
+    border-bottom: 1px solid rgb(236, 226, 212);
+    box-shadow: 0px 0px 10px 1px #FFDBAC;
+    display:flex;
+}
+
+.navbar ul{
+    display:flex;
+    
+}
+.navbar ul li {
+  list-style-type: none;
+margin:5px;
+text-decoration: none;
+}
+
+.navlink{
+    text-decoration: none;
+}
+ 
